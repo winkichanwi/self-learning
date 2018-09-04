@@ -1,2 +1,2 @@
-# Scala sandbox
+# Self-learning
 Scala sbt project initialised
