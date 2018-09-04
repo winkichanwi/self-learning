@@ -1,0 +1,5 @@
+package selflearning
+
+class FutureTraining {
+
+}
