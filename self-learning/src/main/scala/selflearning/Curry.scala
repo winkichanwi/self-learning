@@ -5,4 +5,5 @@ object Curry extends App {
     val addCurried = add.curried
     println(add(1, 2, 3))
     println(addCurried(1))
+    val list = List(1,2,3)
 }
