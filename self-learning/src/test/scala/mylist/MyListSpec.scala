@@ -29,5 +29,18 @@ class MyListSpec extends WordSpec {
       assert(result == MyCons(2, MyCons(3, MyCons(4, MyNil))))
     }
 
+    "flatMap" in {
+      // given
+      val list = MyCons(1, MyCons(2, MyCons(3, MyNil)))
+
+      // when
+      val result = list.flatMap {
+        e => MyCons(e + 2, MyNil)
+      }
+
+      // then
+      assert(result == MyCons(3, MyCons(4, MyCons(5, MyNil))))
+    }
+
   }
 }

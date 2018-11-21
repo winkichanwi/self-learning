@@ -21,38 +21,43 @@
     <favorites_list name="self-learning_7484" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Curry.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FutureTraining.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/FutureTraining.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="15" selection-start-line="9" selection-start-column="15" selection-end-line="9" selection-end-column="15" />
-              <folding>
-                <element signature="e#22#52#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Hello.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="39" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.7007812">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="MyList.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/mylist/MyList.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="450">
+                  <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="MyListSpec.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/mylist/MyListSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="MyListSpec.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/mylist/MyListSpec.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="566">
+                  <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -76,6 +81,8 @@
         <option value="$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/selflearning/FutureTrainingSpec.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/selflearning/FutureTraining.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/mylist/MyList.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/mylist/MyListSpec.scala" />
       </list>
     </option>
   </component>
@@ -88,7 +95,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="2560" />
     <option name="height" value="1440" />
   </component>
@@ -97,6 +104,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -107,62 +115,14 @@
             <path>
               <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="selflearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="self-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="self-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="selflearning" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,6 +133,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -197,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FutureTraining">
+  <component name="RunManager" selected="ScalaTest.MyListSpec">
     <configuration name="Curry" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="selflearning.Curry" />
       <module name="root" />
@@ -216,17 +177,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="selflearning.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="example.Hello" />
-      <module name="root" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -270,6 +220,20 @@
       <setting name="testKind" value="Class" />
       <setting name="path" value="selflearning.FutureTrainingSpec" />
     </configuration>
+    <configuration name="MyListSpec" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true">
+      <module name="root" />
+      <setting name="path" value="mylist.MyListSpec" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="Class" />
+      <setting name="path" value="mylist.MyListSpec" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -295,17 +259,17 @@
     <list>
       <item itemvalue="Scala Console.Scala Console" />
       <item itemvalue="Application.Curry" />
-      <item itemvalue="Application.Hello" />
       <item itemvalue="ScalaTest.FutureTrainingSpec" />
       <item itemvalue="Application.FutureTraining" />
+      <item itemvalue="ScalaTest.MyListSpec" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.MyListSpec" />
         <item itemvalue="Application.FutureTraining" />
         <item itemvalue="ScalaTest.FutureTrainingSpec" />
         <item itemvalue="Scala Console.Scala Console" />
         <item itemvalue="Application.Curry" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -363,28 +327,11 @@
       <workItem from="1535675000077" duration="156000" />
       <workItem from="1536021064437" duration="3417000" />
       <workItem from="1538356959254" duration="937000" />
+      <workItem from="1542770182739" duration="1443000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 09m 12s.xml">
-      <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 09m 45s.xml">
-      <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 09m 57s.xml">
-      <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 36m 41s.xml">
-      <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 37m 10s.xml">
-      <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
-    <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 37m 31s.xml">
-      <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
-    </history-entry>
     <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 39m 07s.xml">
       <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
@@ -397,12 +344,30 @@
     <history-entry file="FutureTrainingSpec - 2018.09.04 at 10h 44m 39s.xml">
       <configuration name="FutureTrainingSpec" configurationId="ScalaTestRunConfiguration" />
     </history-entry>
+    <history-entry file="MyListSpec - 2018.11.21 at 18h 07m 59s.xml">
+      <configuration name="MyListSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MyListSpec - 2018.11.21 at 18h 08m 21s.xml">
+      <configuration name="MyListSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MyListSpec - 2018.11.21 at 18h 10m 13s.xml">
+      <configuration name="MyListSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MyListSpec - 2018.11.21 at 18h 11m 07s.xml">
+      <configuration name="MyListSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MyListSpec - 2018.11.21 at 18h 11m 23s.xml">
+      <configuration name="MyListSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+    <history-entry file="MyListSpec - 2018.11.21 at 18h 11m 41s.xml">
+      <configuration name="MyListSpec" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9032000" />
+    <option name="totallyTimeSpent" value="10672000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="7" />
@@ -412,6 +377,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="0" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.3299712" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="5" side_tool="true" weight="0.25" />
@@ -423,16 +389,15 @@
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info id="Image Layers" order="1" />
       <window_info anchor="right" id="Capture Analysis" order="2" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.29178673" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.2912736" />
       <window_info anchor="bottom" id="Version Control" order="4" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="2" />
-      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49892473" visible="true" weight="0.11171875" />
+      <window_info content_ui="combo" id="Project" order="4" sideWeight="0.49892473" visible="true" weight="0.11111111" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="1" />
       <window_info anchor="right" id="Theme Preview" order="6" />
       <window_info id="Favorites" order="3" sideWeight="0.50107527" side_tool="true" weight="0.15664062" />
       <window_info anchor="right" id="Gradle" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
-      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Find" order="6" />
       <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -447,6 +412,226 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mylist/MyList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/mylist/MyListSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/FutureTraining.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/selflearning/FutureTrainingSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="51" column="34" lean-forward="true" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Dependencies.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/selflearning/FutureTrainingSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="51" column="34" selection-start-line="51" selection-start-column="34" selection-end-line="51" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mylist/MyListImpl.scala" />
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/FutureTraining.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/package.scala" />
+    <entry file="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.12.6-sources.jar!/scala/collection/immutable/List.scala" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="26" lean-forward="true" selection-start-line="6" selection-start-column="26" selection-end-line="6" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/example/Hello.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="9" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/Dependencies.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/FutureTraining.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/selflearning/FutureTrainingSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="72" column="26" lean-forward="true" selection-start-line="72" selection-start-column="26" selection-end-line="72" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/selflearning/Curry.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -545,6 +730,20 @@
           <folding>
             <element signature="e#22#52#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/mylist/MyList.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="57" lean-forward="true" selection-start-line="25" selection-start-column="57" selection-end-line="25" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/mylist/MyListSpec.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="40" column="13" lean-forward="true" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
         </state>
       </provider>
     </entry>
