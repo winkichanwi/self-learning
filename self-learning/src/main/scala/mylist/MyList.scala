@@ -17,7 +17,9 @@ trait MyList[+A] {
 
   def reverse: MyList[A]
 
-  def foldLeft[B](zero: B)(f: (B, A) => B): MyList[B]
+  def foldLeft[B](zero: B)(f: (B, A) => B): B
+
+  // def foldRight
 }
 
 case class MyCons[A](head: A, tail: MyList[A]) extends MyList[A] {
@@ -53,7 +55,15 @@ case class MyCons[A](head: A, tail: MyList[A]) extends MyList[A] {
     _append(MyNil, this)
   }
 
-  override def foldLeft[B](zero: B)(f: (B, A) => B): MyList[B] = ???
+  override def foldLeft[B](zero: B)(f: (B, A) => B): B = {
+    def _foldLeft(remain: MyList[A], acc: B): B = {
+      remain match {
+        case MyCons(h, t) => _foldLeft (t, f (acc, h))
+        case MyNil => acc
+      }
+    }
+    _foldLeft(this.tail, f(zero, this.head))
+  }
 }
 
 case object MyNil extends MyList[Nothing] {
@@ -71,5 +81,5 @@ case object MyNil extends MyList[Nothing] {
 
   override def reverse: MyList[Nothing] = this
 
-  override def foldLeft[B](zero: B)(f: (B, Nothing) => B): MyList[B] = ???
+  override def foldLeft[B](zero: B)(f: (B, Nothing) => B): B = zero
 }

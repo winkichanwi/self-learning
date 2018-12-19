@@ -77,5 +77,23 @@ class MyListSpec extends WordSpec {
       assert(result == MyCons(3, MyCons(2, MyCons(1, MyNil))))
     }
 
+    "MyNil_foldLeft" in {
+      val list = MyNil
+
+      val result = list.foldLeft(0)((acc, e) => acc + 1)
+      assert(result == 0)
+    }
+
+    "MyCons_foldLeft" in {
+      val list = MyCons(1, MyCons(2, MyCons(3, MyNil)))
+      val result = list.foldLeft(0)((acc, e) => acc + e)
+      assert(result == 6)
+    }
+
+    "MyCons_foldLeft minus" in {
+      val list = MyCons(2, MyCons(2, MyCons(3, MyNil)))
+      val result = list.foldLeft(0)((acc, e) => acc - e)
+      assert(result == -7)
+    }
   }
 }
